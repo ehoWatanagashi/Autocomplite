@@ -1,0 +1,10 @@
+https://professorweb.ru/my/javascript/jquery/level4/4_5.php
+
+http://jqueryui.com/download/#!version=1.12.1&components=111111011111000000100000100000000000000000000000
+
+https://habrahabr.ru/post/74713/ !!!! + в комментах ещё ссылки на автозаполнялки
+
+https://www.tutorialspoint.com/jqueryui/jqueryui_autocomplete
+
+
+https://www.devbridge.com/sourcery/components/jquery-autocomplete/#download !!!!!
